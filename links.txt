@@ -1,0 +1,10 @@
+https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
+
+Faucets:
+https://faucets.chain.link/
+
+
+Day 1:
+
+RealEstateToken.sol: 	0x861F9800c9f7A6e05e5e325eea72e0a25CaF4ae7
+Issuer.sol: 		0x284e3F1d6696bE783aBE70a00EC8BEa87fEC8477
